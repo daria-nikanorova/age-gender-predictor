@@ -3,4 +3,6 @@ aiogram==2.13
 async-timeout==3.0.1
 opencv-python~=4.5.1.48
 numpy~=1.19.4
-python3-opencv
+ffmpeg 
+libsm6 
+libxext6
