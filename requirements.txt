@@ -1,8 +1,5 @@
 ado-py==0.0.7
 aiogram==2.13
 async-timeout==3.0.1
-opencv-python~=4.5.1.48
+opencv-python-headless
 numpy~=1.19.4
-ffmpeg 
-libsm6 
-libxext6
